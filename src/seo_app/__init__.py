@@ -1,0 +1,1 @@
+﻿"""SEO property app package."""

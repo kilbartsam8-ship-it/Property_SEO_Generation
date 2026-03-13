@@ -1,0 +1,30 @@
+{
+  "input_data_1": {
+    "property_name": "Honors home",
+    "property_type": "Apartment",
+    "listing_type": "For sale",
+    "location": "hyderabad",
+    "bhk_area": "3bhk",
+    "amenities": "swimming pool, gym, kids play area",
+    "usp_or_highlights": "string",
+    "target_audience": "working professionals, students, families",
+    "tone_preference": "professional",
+    "property_url": "https://www.honerhomes.com/",
+    "property_info_pdf_url": "http://192.168.0.20:8000/uploads/property-description-generator/my-home-tridasa-e-brochure.pdf",
+    "keywords": ""
+  },
+  "input_data_2": {
+    "property_name": "Trilight",
+    "property_type": "Apartment",
+    "listing_type": "For sale",
+    "location": "hyderabad",
+    "bhk_area": "3bhk",
+    "amenities": "swimming pool, gym, kids play area",
+    "usp_or_highlights": "string",
+    "target_audience": "working professionals, students, families",
+    "tone_preference": "professional",
+    "property_url": "https://thetrilight.com/",
+    "property_info_pdf_url": "https://casting2026.s3.ap-south-1.amazonaws.com/Trilight_Digital_Brochure+2.pdf",
+    "keywords": ""
+  }
+}
